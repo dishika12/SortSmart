@@ -1,0 +1,53 @@
+item_id,canonical_name,bin_type_id,explanation,notes
+1,cooked food waste,1,Cooked food waste goes in Food Scraps,
+2,raw fruit,1,Raw fruit goes in Food Scraps,
+3,raw vegetables,1,Raw vegetables go in Food Scraps,
+4,grains,1,Grains go in Food Scraps,
+5,bones,1,Bones go in Food Scraps,
+6,egg shells,1,Egg shells go in Food Scraps,
+7,dairy products,1,Dairy products go in Food Scraps,
+8,paper towels,1,Paper towels go in Food Scraps when soiled,
+9,napkins,1,Napkins go in Food Scraps when used or soiled,
+10,compostable paper plate,1,Certified fibre-based compostable paper plates go in Food Scraps,Must be certified compostable and fibre based
+11,compostable food container,1,Certified fibre-based compostable food containers go in Food Scraps,Must be certified compostable and fibre based
+12,coffee grounds,1,Coffee grounds go in Food Scraps,
+13,coffee filter,1,Coffee filters go in Food Scraps,
+14,non-synthetic tea bag,1,Non-synthetic tea bags go in Food Scraps,
+15,wood chopsticks,1,Plain uncoated wood chopsticks go in Food Scraps,Must be plain and uncoated
+16,plastic container,2,Clean empty plastic #1-7 containers go in Containers,
+17,glass bottle,2,Clean empty glass bottles go in Containers,
+18,glass jar,2,Clean empty glass jars go in Containers,
+19,metal can,2,Clean empty metal cans go in Containers,
+20,coffee cup,2,Coffee cups go in Containers according to the guide,
+21,coffee lid,2,Coffee cup lids go in Containers according to the guide,
+22,milk carton,2,Milk cartons go in Containers,
+23,plastic bottle,2,Clean empty recyclable plastic bottles go in Containers,
+24,recyclable cup,2,Clean empty recyclable cups go in Containers,
+25,recyclable cutlery,2,Accepted recyclable cutlery goes in Containers,
+26,juice box,2,Juice boxes go in Containers,
+27,tetra pak container,2,Tetra Pak containers go in Containers,
+28,aerosol can,2,Empty non-paint aerosol cans go in Containers,Must be empty with no toxic residues
+29,newspaper,3,Clean newspaper goes in Paper,
+30,magazine,3,Clean magazines go in Paper,
+31,envelope,3,Clean envelopes go in Paper,
+32,computer paper,3,Clean computer paper goes in Paper,
+33,paper cup sleeve,3,Paper cup sleeves go in Paper,
+34,cereal box,3,Clean cereal boxes go in Paper,
+35,telephone book,3,Telephone books go in Paper,
+36,sticky note,3,Clean sticky notes go in Paper,
+37,soft cover book,3,Soft cover books go in Paper,
+38,plastic bag,4,Plastic bags go in Garbage according to the guide,
+39,styrofoam,4,Styrofoam goes in Garbage,
+40,plastic wrap,4,Plastic wrap goes in Garbage,
+41,candy bar wrapper,4,Candy bar wrappers go in Garbage,
+42,chip bag,4,Chip bags go in Garbage,
+43,non-recyclable cutlery,4,Non-recyclable cutlery goes in Garbage,
+44,waxed paper,4,Waxed paper goes in Garbage,
+45,aluminum foil,4,Aluminum foil goes in Garbage,
+46,diaper,4,Diapers go in Garbage,
+47,dog waste,4,Dog waste goes in Garbage,
+48,dishware,4,Dishes glassware and ceramics are not accepted in Containers,Use garbage for this MVP
+49,ceramic,4,Ceramics are not accepted in Containers,Use garbage for this MVP
+50,window glass,4,Windows and mirrors are not accepted in Containers,Use garbage for this MVP
+51,mirror,4,Windows and mirrors are not accepted in Containers,Use garbage for this MVP
+52,banana peel,1,Banana peels go in Food Scraps

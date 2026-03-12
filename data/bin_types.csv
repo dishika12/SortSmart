@@ -1,0 +1,5 @@
+bin_type_id,bin_name,color,description
+1,Food Scraps,green,Organic food waste and compostable materials accepted in the food scraps stream
+2,Containers,blue,Recyclable containers such as accepted plastic metal and glass containers
+3,Paper,grey,Clean and dry paper products accepted in the paper stream
+4,Garbage,black,Non-recyclable and non-compostable waste that does not belong in the other streams

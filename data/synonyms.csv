@@ -1,0 +1,66 @@
+synonym_id,item_id,synonym_text
+1,2,fruit scraps
+2,3,veggie scraps
+3,6,eggshell
+4,8,paper towel
+5,9,paper napkin
+6,10,compostable plate
+7,11,compostable takeout container
+8,12,used coffee grounds
+9,13,coffee paper filter
+10,14,tea bag
+11,15,wooden chopsticks
+12,16,plastic tub
+13,16,plastic tray
+14,17,glass drink bottle
+15,18,glass container jar
+16,19,tin can
+17,19,food can
+18,20,paper coffee cup
+19,20,takeout coffee cup
+20,21,coffee cup lid
+21,22,carton
+22,22,milk box
+23,23,water bottle
+24,23,drink bottle
+25,24,plastic cup
+26,24,cold drink cup
+27,25,plastic cutlery
+28,25,fork knife spoon set
+29,26,juice carton
+30,27,tetrapack
+31,27,juice carton pack
+32,28,spray can
+33,29,news paper
+34,30,periodical
+35,31,mail envelope
+36,32,printer paper
+37,33,cup sleeve
+38,34,cereal carton
+39,35,phone book
+40,36,post-it
+41,36,post it note
+42,37,paperback book
+43,38,plastic shopping bag
+44,38,grocery bag
+45,39,foam packaging
+46,39,foam cup
+47,40,cling wrap
+48,40,saran wrap
+49,41,chocolate wrapper
+50,41,candy wrapper
+51,42,snack bag
+52,42,crisps bag
+53,43,disposable cutlery
+54,43,plastic fork
+55,44,coated paper
+56,45,tinfoil
+57,45,foil
+58,46,baby diaper
+59,47,pet waste
+60,47,dog poop
+61,48,plate
+62,48,bowl
+63,49,mug shard
+64,50,broken window glass
+65,51,broken mirror
