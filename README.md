@@ -114,3 +114,8 @@ This project demonstrates:
 - API development with FastAPI
 - frontend-backend integration
 - practical search design with exact, synonym, and fuzzy matching
+
+##Citation
+
+Refered the following UBC Sorting Guide:
+https://sustain.ubc.ca/resources/campus-guides/sort-it-out/sorting-guides
