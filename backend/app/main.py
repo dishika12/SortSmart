@@ -18,8 +18,7 @@ app.add_middleware(
 
 Base.metadata.create_all(bind=engine)
 
-FUZZY_THRESHOLD = 75  # 0-100, lower = more lenient
-
+FUZZY_THRESHOLD = 75 
 
 @app.get("/")
 def root():
@@ -30,14 +29,14 @@ def root():
 def search_item(q: str = Query(..., min_length=1), db: Session = Depends(get_db)):
     search_term = q.strip().lower()
 
-    # 1. Exact canonical name match
+    # Exact canonical name match
     item = (
         db.query(models.Item)
         .filter(models.Item.canonical_name.ilike(search_term))
         .first()
     )
 
-    # 2. Exact synonym match
+    # Exact synonym match
     if not item:
         synonym = (
             db.query(models.Synonym)
@@ -47,7 +46,7 @@ def search_item(q: str = Query(..., min_length=1), db: Session = Depends(get_db)
         if synonym:
             item = db.query(models.Item).filter(models.Item.item_id == synonym.item_id).first()
 
-    # 3. Fuzzy match against canonical names and synonyms
+    # Fuzzy match against canonical names and synonyms
     fuzzy_used = False
     if not item:
         all_items = db.query(models.Item).all()

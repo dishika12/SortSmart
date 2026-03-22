@@ -50,4 +50,4 @@ item_id,canonical_name,bin_type_id,explanation,notes
 49,ceramic,4,Ceramics are not accepted in Containers,Use garbage for this MVP
 50,window glass,4,Windows and mirrors are not accepted in Containers,Use garbage for this MVP
 51,mirror,4,Windows and mirrors are not accepted in Containers,Use garbage for this MVP
-52,banana peel,1,Banana peels go in Food Scraps
+52,banana peel,1,Banana peels go in Food Scraps, 

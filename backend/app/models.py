@@ -3,7 +3,6 @@ from sqlalchemy.orm import relationship
 
 from app.database import Base
 
-
 class BinType(Base):
     __tablename__ = "bin_types"
 

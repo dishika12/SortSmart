@@ -54,7 +54,7 @@ function App() {
         <div className="search-box">
           <input
             type="text"
-            placeholder="Enter an item, e.g. banana peel"
+            placeholder="Enter an item"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={handleKeyDown}
